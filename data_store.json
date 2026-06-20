@@ -1,0 +1,29 @@
+{
+  "analytics": {
+    "queries_count": 0,
+    "total_response_time": 0.0,
+    "latency_history": []
+  },
+  "collections_meta": {
+    "Resume Collection": {
+      "files": [
+        "Resume.pdf",
+        "contentssss_merged (1).pdf",
+        "Kurhade_Varun_Vijay_FlowCV_Resume_2026-06-01.pdf"
+      ],
+      "chunks_count": 68
+    },
+    "Research Papers Collection": {
+      "files": [],
+      "chunks_count": 0
+    },
+    "Project Reports Collection": {
+      "files": [],
+      "chunks_count": 0
+    },
+    "General Documents Collection": {
+      "files": [],
+      "chunks_count": 0
+    }
+  }
+}

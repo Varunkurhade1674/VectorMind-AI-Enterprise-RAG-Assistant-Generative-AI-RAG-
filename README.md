@@ -273,16 +273,6 @@ Explain the main concepts in simple terms.
 
 ---
 
-## 💼 Resume Description
-
-### VectorMind AI – Enterprise RAG Assistant (Generative AI – RAG)
-
-- Built a Retrieval-Augmented Generation (RAG) platform for document search, summarization, and contextual question answering.
-- Integrated Google Gemini, LangChain, and ChromaDB to enable semantic search and intelligent knowledge retrieval.
-- Developed AI-powered features including document comparison, question generation, and context-aware responses through a Streamlit interface.
-
----
-
 ## 🏷️ Category
 
 ```text

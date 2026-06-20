@@ -283,14 +283,4 @@ Retrieval-Augmented Generation (RAG)
 Document Intelligence
 ```
 
----
 
-## 👨💻 Author
-
-**Varun Kurhade**
-
----
-
-## 📜 License
-
-MIT License
